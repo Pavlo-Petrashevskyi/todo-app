@@ -9,11 +9,11 @@ To make this app were used:
 
 # Preview
 Here are some references to understand how to use an app.
-![AddingTodo](./src/description/todoapp.gif)
-![EditingTodo](./src/description/edittodo.gif)
+![Addingtodo](./src/description/todoapp.gif)
+[editingtodo](./src/description/edittodo.gif)
 
 # Source
-You can check out a source using this link: (http://todomvc.com/examples/vanillajs/).
+You can check out a source using this link: ![Game](http://todomvc.com/examples/vanillajs/).
 
 # Extra instructions
 Use references to understand how the app works.
