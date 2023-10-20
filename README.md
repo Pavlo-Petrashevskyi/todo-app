@@ -1,9 +1,19 @@
-# React TypeScript Starter Pack
+# Description
+This is an app for your daily todos, which you can use to write some of them, so you want forget about your tasks.
 
-To use this template click `Use this template`
+# Technologies
+To make this app were used:
+1) Javascript with React;
+2) Typescript;
+3) Html and CSS;
 
-### Available Scripts
+# Preview
+Here are some references to understand how to use an app.
+![Adding todo](./src/description/todoapp.gif)
+![Editing todo](./src/description/edittodo.gif)
 
-`Deploy` - available to deploy your application to gh-pages
+# Source
+You can check out a source using this link: (http://todomvc.com/examples/vanillajs/).
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Extra instructions
+Use references to understand how the app works.
