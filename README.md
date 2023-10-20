@@ -1,5 +1,5 @@
 # Description
-This is an app for your daily todos, which you can use to write some of them, so you want forget about your tasks.
+This is an app for your daily todos, which you can use to write them down, so you will not forget about your tasks.
 
 # Technologies
 To make this app were used:
@@ -9,8 +9,8 @@ To make this app were used:
 
 # Preview
 Here are some references to understand how to use an app.
-![Adding todo](./src/description/todoapp.gif)
-![Editing todo](./src/description/edittodo.gif)
+![AddingTodo](./src/description/todoapp.gif)
+![EditingTodo](./src/description/edittodo.gif)
 
 # Source
 You can check out a source using this link: (http://todomvc.com/examples/vanillajs/).
