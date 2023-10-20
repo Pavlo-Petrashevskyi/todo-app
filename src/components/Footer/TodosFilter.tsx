@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import classNames from 'classnames';
 import { NavLink } from 'react-router-dom';
 import { Status, LinkHref } from '../../types/FilterTypes';

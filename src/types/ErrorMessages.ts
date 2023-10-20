@@ -1,3 +1,4 @@
+/* eslint-disable no-shadow */
 export enum Errors {
   None = '',
   Add = 'Unable to add todo',
